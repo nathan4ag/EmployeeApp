@@ -1,0 +1,15 @@
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/bin/Debug/net8.0/EmployeeApp
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.deps.json
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.runtimeconfig.json
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.dll
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.pdb
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.AssemblyInfoInputs.cache
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.AssemblyInfo.cs
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.sourcelink.json
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.dll
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/refint/EmployeeApp.dll
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.pdb
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.genruntimeconfig.cache
+/Users/narreola/SandBox/csharp/EmployeeApp/EmployeeApp/obj/Debug/net8.0/ref/EmployeeApp.dll
